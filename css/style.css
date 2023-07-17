@@ -1,0 +1,129 @@
+/* 1 */
+/* 1 */
+.RIKKEI {
+    background-color: rgb(255, 115, 0);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.ACADEMY {
+    display: flex;
+    gap: 20px;
+
+}
+
+.qaz {
+    width: 380px;
+    height: 26px;
+    border-radius: 5px;
+}
+
+.Search {
+    width: 55px;
+    height: 26px;
+    border-radius: 5px;
+}
+
+button {
+    width: 100px;
+    height: 26px;
+    border-radius: 5px;
+}
+
+/* 2 */
+/* 2 */
+
+.product {
+    width: 165px;
+    height: 200px;
+    border: 1px solid rgb(236, 223, 223);
+    padding: 3px;
+    margin: 6px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    background-color: rgb(215, 241, 233);
+}
+
+.ert {
+    list-style-type: none;
+    padding-left: 20px;
+    text-align: justify;
+}
+
+.all {
+    color: red;
+}
+
+.jpp {
+
+    width: 157px;
+    height: 150px;
+}
+
+.Promax {
+    text-align: center;
+}
+
+.money {
+    color: red;
+}
+
+.Phone {
+    width: 165px;
+    height: 330px;
+    border: 1px solid rgb(236, 223, 223);
+    padding: 3px;
+    margin: 6px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: rgb(215, 241, 233);
+}
+
+.axxx {
+    display: flex;
+}
+
+.total {
+    display: flex;
+    margin-left: 190px;
+    margin-top: 10px;
+}
+
+header {
+    background-color: rgb(230, 217, 217);
+}
+
+/* 3 */
+/* 3 */
+
+.Face {
+    list-style-type: none;
+}
+
+.name {
+    color: red;
+}
+
+.relax {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(230, 217, 217);
+}
+
+@media only screen and (max-width:999px) {
+    header {
+        background-color: brown;
+        width: 1000px;
+        height: 2000px;
+    }
+
+    .relax {
+        background-color: chartreuse;
+        width: 1000px;
+        height: 2000px;
+    }
+}
